@@ -33,8 +33,9 @@ adding medical images (e.g. scans) into reports manually using Word was **time-c
 
 ## 🎥 Demo
 
-A demonstration video is available in this repository:  
-`demo_gastrodoc.mp4`
+![Demo](docs/demo_gastrodoc.gif)
+
+For the full demo video, click here: [Watch full demo](https://drive.google.com/file/d/1UZYDRAwrm-1drUV841dFysvmKA_jvDAg/view)
 
 ---
 
